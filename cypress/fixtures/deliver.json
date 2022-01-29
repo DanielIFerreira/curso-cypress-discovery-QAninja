@@ -1,0 +1,64 @@
+{
+    "signup": {
+        "name": "Daniel Ferreira",
+            "cpf": "00000000012",
+            "email": "discoveryteste@gmail.com",
+            "whatsapp": "15999999999",
+            "address":{
+                "postalcode": "18076000",
+                "street":"Rua Andrelino de Souza",
+                "number": "0000",
+                "details": "Bloca A Apartamento Nº2",
+                "district": "Jardim Maria Antônia Prado",
+                "city_state": "Sorocaba/SP"
+            },
+            "delivery_method":{
+                "moto": "Moto",
+                "bicicleta": "Bicicleta",
+                "vanCarro": "Van/Carro"
+            },
+            "cnh": "imagens/cnh-digital.jpg" 
+    },
+    "cpf_inv": {
+        "name": "Rafel Ferreira",
+            "cpf": "00000000012AA",
+            "email": "rafateste@gmail.com",
+            "whatsapp": "15999999999",
+            "address":{
+                "postalcode": "18076000",
+                "street":"Rua Andrelino de Souza",
+                "number": "0011",
+                "details": "Bloca A Apartamento Nº10",
+                "district": "Jardim Maria Antônia Prado",
+                "city_state": "Sorocaba/SP"
+            },
+            "delivery_method":{
+                "moto": "Moto",
+                "bicicleta": "Bicicleta",
+                "vanCarro": "Van/Carro"
+            },
+            "cnh": "imagens/cnh-digital.jpg" 
+    },
+    "email_inv": {
+        "name": "Email Invalido",
+            "cpf": "00000000012",
+            "email": "discoveryteste.com",
+            "whatsapp": "15999999999",
+            "address":{
+                "postalcode": "18076000",
+                "street":"Rua Andrelino de Souza",
+                "number": "0000",
+                "details": "Bloca A Apartamento Nº2",
+                "district": "Jardim Maria Antônia Prado",
+                "city_state": "Sorocaba/SP"
+            },
+            "delivery_method":{
+                "moto": "Moto",
+                "bicicleta": "Bicicleta",
+                "vanCarro": "Van/Carro"
+            },
+            "cnh": "imagens/cnh-digital.jpg" 
+    }
+
+
+}
